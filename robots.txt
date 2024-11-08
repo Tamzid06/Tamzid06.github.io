@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tamzid.github.io/sitemap.xml
+Sitemap: https://Tamzid06.github.io/sitemap.xml
