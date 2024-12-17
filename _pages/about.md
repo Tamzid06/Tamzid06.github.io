@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a lecturer in Computer Science and Engineering at the [United International University](https://www.uiu.ac.bd/). I received my B.Sc. engineering degree (CSE) from [Shahjalal University of Science and Technology, Sylhet.](https://www.sust.edu/), where I was supervised by [Dr. Khalad Hasan](https://cmps.ok.ubc.ca/about/contact/mohammad-khalad-hasan/) and [Dr. Farida Chowdhury](https://cse.sds.bracu.ac.bd/faculty_profile/211/dr_farida_chowdhury)
 
-My research interest is in Human Computer Interaction (HCI), with a focus on interactions within extended reality. More specifically, my primary focus lies in Augmented and Virtual Reality (AR/VR), eye interaction, interactive user interfaces, and wearable devices/sensing, with a focus on enhancing immersive experiences. My works also include Social Computing, CSCW (Computer Supported Cooperative Work) and Human Cognition. Through interdisciplinary approaches, I seek to push the boundaries of human-centered design and create systems that are both functional and impactful. hello
+My research interest is in Human Computer Interaction (HCI), with a focus on interactions within extended reality. More specifically, my primary focus lies in Augmented and Virtual Reality (AR/VR), eye interaction, interactive user interfaces, and wearable devices/sensing, with a focus on enhancing immersive experiences. My works also include Social Computing, CSCW (Computer Supported Cooperative Work) and Human Cognition. Through interdisciplinary approaches, I seek to push the boundaries of human-centered design and create systems that are both functional and impactful. helloooooo
 
 
 
